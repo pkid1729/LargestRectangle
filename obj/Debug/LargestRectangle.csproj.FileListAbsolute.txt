@@ -1,0 +1,7 @@
+C:\Users\Pranav Kumar\Documents\Visual Studio 2017\Projects\LargestRectangle\LargestRectangle\obj\Debug\LargestRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Pranav Kumar\Documents\Visual Studio 2017\Projects\LargestRectangle\LargestRectangle\obj\Debug\LargestRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Kumar\Documents\Visual Studio 2017\Projects\LargestRectangle\LargestRectangle\bin\Debug\LargestRectangle.exe.config
+C:\Users\Pranav Kumar\Documents\Visual Studio 2017\Projects\LargestRectangle\LargestRectangle\bin\Debug\LargestRectangle.exe
+C:\Users\Pranav Kumar\Documents\Visual Studio 2017\Projects\LargestRectangle\LargestRectangle\bin\Debug\LargestRectangle.pdb
+C:\Users\Pranav Kumar\Documents\Visual Studio 2017\Projects\LargestRectangle\LargestRectangle\obj\Debug\LargestRectangle.exe
+C:\Users\Pranav Kumar\Documents\Visual Studio 2017\Projects\LargestRectangle\LargestRectangle\obj\Debug\LargestRectangle.pdb
